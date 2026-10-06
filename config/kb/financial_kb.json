@@ -1,0 +1,82 @@
+[
+  {
+    "id": "kb-001",
+    "title": "Customer identification and verification at account opening",
+    "category": "aml_kyc",
+    "source": "Act on Prevention of Transfer of Criminal Proceeds, overview note",
+    "tags": ["aml", "kyc", "onboarding", "verification", "account", "retail"],
+    "content": "Anti-money-laundering rules require customer identification and verification steps before opening any retail deposit or investment account. The required steps are: confirm identity data against an official document, verify the stated purpose of the transaction and the customer's occupation, screen the applicant against sanction and politically-exposed-person lists, and record the verification evidence. Enhanced due diligence applies when the applicant, product, or delivery channel presents an elevated risk."
+  },
+  {
+    "id": "kb-002",
+    "title": "Suitability principle for investment product sales",
+    "category": "sales_conduct",
+    "source": "Financial Instruments and Exchange Act, sales conduct summary",
+    "tags": ["suitability", "sales", "investment", "customer", "product"],
+    "content": "The suitability principle prohibits soliciting investment products that are inappropriate in light of a customer's knowledge, experience, asset situation, and purpose of investment. Distributors must assess and record these four factors before recommending a product, and must refresh the assessment when the customer's situation changes materially. Sales of complex or high-risk products to customers without matching experience require additional care and documented rationale."
+  },
+  {
+    "id": "kb-003",
+    "title": "Advisory disclaimer duties for information services",
+    "category": "disclosure",
+    "source": "Industry guidance on investment information services",
+    "tags": ["disclaimer", "advisory", "disclosure", "information"],
+    "content": "Information services that summarise regulations or product features for customers must carry an advisory disclaimer stating that the content is informational, is not individualized investment advice, and should be verified against the primary regulatory text. The disclaimer must be presented together with the answer, not on a separate page, so the reader cannot receive the substance without the qualification."
+  },
+  {
+    "id": "kb-004",
+    "title": "Deposit insurance coverage scope",
+    "category": "deposit_products",
+    "source": "Deposit Insurance Act, coverage summary",
+    "tags": ["deposit", "insurance", "coverage", "protection"],
+    "content": "Deposit insurance protects ordinary deposits, time deposits, and installment savings held at insured institutions, with principal protected up to a fixed ceiling per depositor per institution together with accrued interest. Settlement-purpose deposits that are non-interest-bearing, redeemable on demand, and used for payment services are fully protected. Foreign-currency deposits and negotiable certificates of deposit sit outside the coverage."
+  },
+  {
+    "id": "kb-005",
+    "title": "Risk disclosure for foreign-currency deposits",
+    "category": "disclosure",
+    "source": "Banking sales conduct guideline, foreign-currency products",
+    "tags": ["foreign", "currency", "deposit", "risk", "disclosure"],
+    "content": "Before accepting a foreign-currency deposit, the institution must explain that exchange-rate movements can reduce the yen value of principal, that exchange fees apply on both deposit and withdrawal, and that the product is outside deposit insurance coverage. The explanation must be delivered in a document or durable medium and the customer's confirmation of understanding must be recorded."
+  },
+  {
+    "id": "kb-006",
+    "title": "Insider trading controls for employees",
+    "category": "market_conduct",
+    "source": "Market conduct compliance manual, insider trading chapter",
+    "tags": ["insider", "trading", "market", "conduct", "employees"],
+    "content": "Employees who obtain material non-public information about a listed issuer must not trade the issuer's securities or recommend trades to others until the information is publicly disclosed. Firms must maintain watch lists and restricted lists, require pre-clearance for employee trades in covered securities, and train staff on the definition of material facts and the timing of public disclosure."
+  },
+  {
+    "id": "kb-007",
+    "title": "Conflicts of interest management framework",
+    "category": "governance",
+    "source": "Conflicts of interest management policy outline",
+    "tags": ["conflicts", "interest", "governance", "management"],
+    "content": "Institutions must identify transactions that may create conflicts between the interests of the firm or its group companies and those of customers, and manage them through separation of information, transaction monitoring, or disclosure to the affected customer. A designated control unit maintains the conflict register and reviews new products and group transactions before launch."
+  },
+  {
+    "id": "kb-008",
+    "title": "Transaction record retention duties",
+    "category": "operations",
+    "source": "Recordkeeping obligations summary",
+    "tags": ["records", "retention", "transaction", "operations"],
+    "content": "Books and records supporting customer transactions, identity verification, and suitability assessments must be retained for the statutory period, generally seven years from the transaction date or account closure. Records must remain retrievable within a reasonable time and be protected against alteration for the full retention period."
+  },
+  {
+    "id": "kb-009",
+    "title": "Complaint handling and dispute resolution",
+    "category": "customer_protection",
+    "source": "Customer protection framework note",
+    "tags": ["complaint", "handling", "dispute", "resolution", "customer"],
+    "content": "Firms must accept customer complaints through accessible channels, record each complaint with its facts and resolution, and analyse complaint trends for control weaknesses. Customers must be informed of the designated external dispute-resolution body when a complaint cannot be settled internally, and the firm must cooperate with that body's procedures."
+  },
+  {
+    "id": "kb-010",
+    "title": "Enhanced checks for cross-border remittances",
+    "category": "aml_kyc",
+    "source": "Remittance screening procedure summary",
+    "tags": ["remittance", "cross-border", "screening", "aml", "sanctions"],
+    "content": "Cross-border remittances require screening of the sender and beneficiary against sanction lists, confirmation of the remittance purpose, and verification that the destination is not a restricted jurisdiction. Transactions that present unusual patterns relative to the customer's profile must be escalated for review and, where suspicion remains, reported as suspicious transactions without informing the customer."
+  }
+]
